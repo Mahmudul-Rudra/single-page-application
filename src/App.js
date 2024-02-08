@@ -4,6 +4,8 @@ import Header from "./components/Header";
 
 import "./styles/App.scss";
 import "./styles/Header.scss";
+import "./styles/home.scss";
+
 import Home from "./components/Home";
 const App = () => {
   return (
