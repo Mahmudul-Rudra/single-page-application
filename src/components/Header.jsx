@@ -6,7 +6,7 @@ const Header = () => {
     <nav>
       <h1>NewBeg</h1>
       <main>
-        <HashLink to={"/"}>Home</HashLink>
+        <HashLink to={"/#home"}>Home</HashLink>
         <Link to={"/contact"}>Contact</Link>
         <HashLink to={"/#about"}>About</HashLink>
         <HashLink to={"/#brands"}>Brands</HashLink>
