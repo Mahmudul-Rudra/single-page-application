@@ -16,7 +16,7 @@ const Home = () => {
           <p>A single page application which is my first React Application</p>
         </main>
       </div>
-      /////////////////////////////////////////////////////////////////////
+
       <div className="home2">
         <img src={vg} alt="Graphics" />
         <div>
@@ -27,7 +27,7 @@ const Home = () => {
           </p>
         </div>
       </div>
-      /////////////////////////////////////////////////////////////////////
+
       <div className="home3" id="about">
         <div>
           <h1>Who am I?</h1>
