@@ -1,5 +1,12 @@
 import React from "react";
 import vg from "../assets/2.webp";
+import {
+  AiFillGoogleCircle,
+  AiFillAmazonCircle,
+  AiFillYoutube,
+  AiFillInstagram,
+} from "react-icons/ai";
+
 const Home = () => {
   return (
     <>
@@ -39,6 +46,15 @@ const Home = () => {
             conducted two big events which was with the CEO of Nagad and an
             Intra Case Competition where my team was the runner up.
           </p>
+        </div>
+      </div>
+      /////////////////////////////////////////////////////////////////////
+      <div className="home4">
+        <div>
+          <h1>Brands</h1>
+          <article>
+            <div></div>
+          </article>
         </div>
       </div>
     </>
